@@ -1,3 +1,8 @@
+#Chloe Delfau
+#SoftDev1 pd8
+#HW02 -- Fill Your Flask
+#2016-09-20  
+
 pip install flask
 virtualenv chloe
 cd..
